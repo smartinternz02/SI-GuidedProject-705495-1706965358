@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.com/')
 
-WebUI.setText(findTestObject('Object Repository/Amazon_OR_Search/Page_Amazon.com. Spend less. Smile more/input_field-keywords'), 
+WebUI.setText(findTestObject('Object Repository/Amazon_OR_Search-Input/Page_Amazon.com. Spend less. Smile more/input_field-keywords'), 
     'laptop')
 
-WebUI.click(findTestObject('Object Repository/Amazon_OR_Search/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button'))
+WebUI.click(findTestObject('Object Repository/Amazon_OR_Search-Input/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button'))
 
-WebUI.click(findTestObject('Object Repository/Amazon_OR_Search/Page_Amazon.com  laptop/div_1-16 of over 7,000 results for laptop'))
+WebUI.click(findTestObject('Object Repository/Amazon_OR_Search-Input/Page_Amazon.com  laptop/div_1-16 of over 7,000 results for laptop'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Amazon_OR_Search/Page_Amazon.com  laptop/div_1-16 of over 7,000 results for laptop'), 
-    'results for "laptop"')
+WebUI.verifyElementText(findTestObject('Object Repository/Amazon_OR_Search-Input/Page_Amazon.com  laptop/span_laptop'), 
+    '"laptop"')
 
 WebUI.closeBrowser()
 

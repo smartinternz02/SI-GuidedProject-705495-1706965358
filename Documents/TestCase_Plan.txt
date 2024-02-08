@@ -1,0 +1,67 @@
+1. Test Plan Id: Amazon_ST_TP_001 
+2. Introduction: 
+ Amazon is an e-commerce, cloud computing, online advertising, digital streaming, and 
+artificial intelligence website that allows users to browse for products and place orders 
+based on their wish lists. 
+ It is sometimes referred to as "one of the most influential economic and cultural forces in 
+the world," and is widely regarded as one of the world's most valuable brands. 
+  Amazon also offers a variety of downloading and streaming content via its Amazon Prime 
+Video, Amazon Music, Twitch, and Audible platforms. 
+3. Test Items: 
+ Create Account 
+ Sign in 
+ Categories and Search Field 
+4. Features to be tested: 
+a) Create Account: 
+1. Name Text field Validation 
+2. Country code and Mobile number Text Field Validation 
+3. Password Text field Validation 
+b) Sign in: 
+1. Enter valid mobile number or email 
+2. And click on Continue  
+3. Enter valid Password 
+c) Categories and Search field: 
+1. Select a category from the drop down list. 
+2. Based on category. Write the product in the search field. 
+3. Results will be displayed depending on categories. 
+c) Add : 
+1. Select a category from the drop down list. 
+2. Based on category. Write the product in the search field. 
+3. Results will be displayed depending on categories. 
+
+Create Account Features: Boundary Value Analysis 
+Sign In feature :Equivalence partition 
+Category and search field features: Random testing 
+7. Features Pass/Fail Criteria: 
+ 
+Pass Criteria for Sign In Module: 
+a) Enter Valid email-id: 
+email-id must contain @ and domain(eg:-.com,.in) 
+and click on continue button 
+and enter correct password 
+and click on sign button 
+it will redirect to new page 
+b) Enter Valid mobile number:  
+Enter mobile number 
+Mobile number length depend upon with country code 
+and click on continue button 
+Enter password 
+and click on sign button 
+it will redirect to new page 
+Fail Criteria for Sign In Module: 
+When an email address is entered but the password field is left empty, or 
+vice versa, 
+7. Entry Criteria: 
+When a mobile phone  is entered but the password field is left empty, or vice 
+versa, 
+if the email address and number are entered together 
+a) Test Design:  
+• Team formation, Responsibilities,schedule,requirements,test case template  
+• Training on domain, on automation tools 
+b) Test Execution 
+Readiness of test tab 
+Readiness of AUT 
+Requirements 
+Test case Documents 
+Test data 
+Defect Report Template

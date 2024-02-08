@@ -3,15 +3,15 @@
    <description></description>
    <name>input_field-keywords</name>
    <tag></tag>
-   <elementGuidId>e935d443-78d9-44d2-abdb-5ddf78a4db39</elementGuidId>
+   <elementGuidId>c952497b-441b-4cea-b978-264f51df731b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#twotabsearchtextbox</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='twotabsearchtextbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#twotabsearchtextbox</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0bcaa782-c8f7-4f37-a119-33c056fe61e2</webElementGuid>
+      <webElementGuid>69e1c197-0bbc-4c36-b6d9-bdc8e8f6e338</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e800496a-09dc-4255-bbf7-557e73853d55</webElementGuid>
+      <webElementGuid>42c21dd9-952d-466e-bbcc-c633ce2b6ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>twotabsearchtextbox</value>
-      <webElementGuid>0c35172e-a640-4468-81fa-171526c71f3b</webElementGuid>
+      <webElementGuid>578b3b6a-f3e8-4d84-997e-3046fb1fde99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>field-keywords</value>
-      <webElementGuid>fb7b5f29-3d55-497b-90b6-79f0f2c620a1</webElementGuid>
+      <webElementGuid>a34463be-27a3-4406-af06-9058fe1f1e04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c317b66f-8ff3-461b-8e10-66554a817055</webElementGuid>
+      <webElementGuid>700ca2ad-9c88-4aec-b303-257d3dd0f298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Amazon</value>
-      <webElementGuid>3d0d6f4b-5356-450b-8935-2f93ca6a6601</webElementGuid>
+      <webElementGuid>20899f5d-9ecb-44fb-95ce-23c1d7ce4189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-input nav-progressive-attribute</value>
-      <webElementGuid>966767d9-9980-41fb-afba-dd66708f63fa</webElementGuid>
+      <webElementGuid>aeb004c9-966a-4392-b1b8-8945aa442bf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>53519c93-adce-4f14-8457-a0905d572d55</webElementGuid>
+      <webElementGuid>200dd5de-0bec-4f30-b864-23dbf8190a60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d46c25be-44d0-4d6b-b0c2-0095e996b1bf</webElementGuid>
+      <webElementGuid>2a4d22d5-8fe0-4cd3-9f72-7edc7f701c8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Search Amazon</value>
-      <webElementGuid>0efa5027-9a17-4e54-adca-cd93f8a9996c</webElementGuid>
+      <webElementGuid>4dad70bb-28e3-463c-bbd0-7a1bc131ed21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ff7a2e6c-edf4-4861-822a-7348e925a0e9</webElementGuid>
+      <webElementGuid>d492904c-5e15-4b78-8338-1f031765f7f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;twotabsearchtextbox&quot;)</value>
-      <webElementGuid>b4ee582e-204f-4760-9f83-86f4fcef9579</webElementGuid>
+      <webElementGuid>1c846def-e9ec-41e3-8c5d-d1ce4941a651</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='twotabsearchtextbox']</value>
-      <webElementGuid>4097f601-ac6a-4ce9-9c8e-dea8c3140371</webElementGuid>
+      <webElementGuid>3953fb09-4dc6-46ad-99c0-fc89ab932958</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='nav-search-bar-form']/div[2]/div/input</value>
-      <webElementGuid>a6df276b-ba1b-42a6-aeca-6ed22cdcefe5</webElementGuid>
+      <webElementGuid>95139dd9-1bbe-454a-ad61-f1e861479080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>9d6d3444-de61-4633-ae7a-ef8172258ec6</webElementGuid>
+      <webElementGuid>a1889d8c-15e3-4e14-a003-78cce39974ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'twotabsearchtextbox' and @name = 'field-keywords' and @placeholder = 'Search Amazon']</value>
-      <webElementGuid>ea04242b-2697-4a32-91fe-d9d27eab0a61</webElementGuid>
+      <webElementGuid>46b6aec2-599f-4266-94e2-4ebbfa121663</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

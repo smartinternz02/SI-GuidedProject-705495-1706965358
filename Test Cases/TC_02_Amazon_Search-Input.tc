@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_02_Amazon_Search_Input</name>
+   <name>TC_02_Amazon_Search-Input</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6a41bdea-a558-4772-992d-17bf154fdbe3</testCaseGuid>
+   <testCaseGuid>982b90b8-c1bf-4500-b9de-7c55292d411a</testCaseGuid>
 </TestCaseEntity>
