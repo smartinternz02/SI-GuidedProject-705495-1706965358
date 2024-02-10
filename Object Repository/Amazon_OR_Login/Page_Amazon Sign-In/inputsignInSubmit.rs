@@ -3,7 +3,7 @@
    <description></description>
    <name>inputsignInSubmit</name>
    <tag></tag>
-   <elementGuidId>f5d52cea-3d94-4bf4-86f2-48a06ef4c40b</elementGuidId>
+   <elementGuidId>56e30eba-61b4-4fa5-a0c7-7e1d1079f742</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>92fca2a7-782c-4711-a8ce-5a5cfb7c41b0</webElementGuid>
+      <webElementGuid>fa4f3241-984d-4ca8-be30-99ef7b4f9bba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>signInSubmit</value>
-      <webElementGuid>3c9b2c15-6dcd-4ec0-9cba-be02abefe098</webElementGuid>
+      <webElementGuid>5d8dd9fb-8ce0-48f2-9fb0-724b04412f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>52a548ca-b362-43c4-823c-fb3dab6fb69e</webElementGuid>
+      <webElementGuid>3c9b400f-63c4-4c60-8d8c-5920bf02c167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-button-input</value>
-      <webElementGuid>1cb8e284-e2a8-44bf-b76a-38992ad47a53</webElementGuid>
+      <webElementGuid>7afe46ba-741b-4a25-abd1-3440c1f48e37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2c457673-bd75-4828-8524-f855d90a2457</webElementGuid>
+      <webElementGuid>8d0acdf4-4145-4e27-a840-ce29a32378be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>auth-signin-button-announce</value>
-      <webElementGuid>fad5904d-ee76-42f0-8039-5e0f2be302a8</webElementGuid>
+      <webElementGuid>728a0a5c-5099-4dad-8067-efc35b5b174a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signInSubmit&quot;)</value>
-      <webElementGuid>f133c5eb-52fc-48c8-b3cf-bdf05e84c83c</webElementGuid>
+      <webElementGuid>c7fe06cb-921b-4248-9858-8994d09b36c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='signInSubmit']</value>
-      <webElementGuid>728b00f9-2c8f-445e-b6bd-cb524d7f92fe</webElementGuid>
+      <webElementGuid>ca1b857c-caee-4371-8243-32e2e509c8bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='auth-signin-button']/span/input</value>
-      <webElementGuid>109e2f1e-ccf4-45f1-a205-9799f2566bb0</webElementGuid>
+      <webElementGuid>b771ae47-6c63-4932-9dd8-ee4bf4590cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>4ed11e2d-bbce-4fa1-b401-a46c98b56f2f</webElementGuid>
+      <webElementGuid>9c79e76a-9e49-4849-be5a-b1ebc05b2710</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'signInSubmit' and @type = 'submit']</value>
-      <webElementGuid>23c3ddc9-88f3-407d-8307-b5f25ec3f89c</webElementGuid>
+      <webElementGuid>9c0ed7c8-7af7-4473-bf22-8130557734f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>a_us</name>
    <tag></tag>
-   <elementGuidId>aaa2ed42-af19-4aec-8033-f2f7c4495124</elementGuidId>
+   <elementGuidId>4900e79d-516d-44cc-bd08-9004ca3a1531</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>51fb4ea5-d79e-4151-b220-f6b510342334</webElementGuid>
+      <webElementGuid>f74c7661-9c5b-467f-98ed-a27f6db03e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/ref=nav_logo</value>
-      <webElementGuid>8245dfd1-ac1e-47a6-83b0-0ae54c51e373</webElementGuid>
+      <webElementGuid>dd9f89fe-9a7b-4c6c-a233-2c1e308c7b27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>nav-logo-sprites</value>
-      <webElementGuid>23174b27-e7ae-418c-b6f4-90b12efbbd8c</webElementGuid>
+      <webElementGuid>1d72d23e-4d03-42a0-b0bd-e273320590bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-logo-link nav-progressive-attribute</value>
-      <webElementGuid>fe94a7e7-3632-41c3-9473-5e0e2b2a6a13</webElementGuid>
+      <webElementGuid>177493d9-3a86-41ff-b693-db4a45621bfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Amazon</value>
-      <webElementGuid>ed58a370-1754-49f2-ad3c-2fd974adb0a1</webElementGuid>
+      <webElementGuid>0999fa53-f20c-458a-95d7-bc1c2263ce7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       
       .us
     </value>
-      <webElementGuid>54419460-96c4-4629-b4f5-4758ada9cc9b</webElementGuid>
+      <webElementGuid>dc401477-9541-4549-9591-f000043ed45d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-logo-sprites&quot;)</value>
-      <webElementGuid>89a6e9e7-d5f0-4204-ae5d-db5739b898d4</webElementGuid>
+      <webElementGuid>5f7b5d20-8ca6-49d2-aa82-74c284ce30bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='nav-logo-sprites']</value>
-      <webElementGuid>60410699-b62a-4a00-9d28-077c46ccff59</webElementGuid>
+      <webElementGuid>cf1e449c-d067-4bf1-a527-4c57efcd5cf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='nav-logo']/a</value>
-      <webElementGuid>e915a88c-f4a5-40de-b126-b80362663c04</webElementGuid>
+      <webElementGuid>a61b5966-a422-44e5-8828-df2029c0bac9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/ref=nav_logo')]</value>
-      <webElementGuid>3d3375cf-9ed3-4008-8d65-4d377e045b5a</webElementGuid>
+      <webElementGuid>c1ef117a-19e3-4dec-b25c-72544b9c69f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/a</value>
-      <webElementGuid>67cfd037-1891-4312-9dd1-ea12d90a2434</webElementGuid>
+      <webElementGuid>6030a574-09ac-4ff3-ba55-2340776cce86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
       
       .us
     ')]</value>
-      <webElementGuid>e90c3bd0-4f3b-4198-828f-ba18d6c43520</webElementGuid>
+      <webElementGuid>ecf6f160-a4b3-40a3-9602-77634bd2199d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

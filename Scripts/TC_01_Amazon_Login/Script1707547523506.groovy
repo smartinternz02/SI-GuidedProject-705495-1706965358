@@ -21,17 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.com/')
 
-WebUI.click(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All'))
+WebUI.click(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All'))
 
 WebUI.click(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in'))
 
-WebUI.setText(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email'), GlobalVariable.email)
-
-WebUI.verifyCheckpoint(findCheckpoint('null'), false)
+WebUI.setText(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email'), 'hackerrr1236@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password'), GlobalVariable.password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password'), 'P2D2vg6I5uuiB0kbXouwaA==')
 
 WebUI.click(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit'))
 
@@ -39,4 +37,6 @@ WebUI.click(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon.com. S
 
 WebUI.verifyElementText(findTestObject('Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign Out'), 
     'Sign Out')
+
+WebUI.closeBrowser()
 

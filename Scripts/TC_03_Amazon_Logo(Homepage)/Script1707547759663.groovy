@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.com/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Amazon_OR_Logo_HomePage/Page_Amazon.com. Spend less. Smile more/a_us'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Amazon_OR_Logo/Page_Amazon.com. Spend less. Smile more/a_us'), 
     0)
 
 WebUI.closeBrowser()

@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All",
+      "brokenLocator": "//a[@id\u003d\u0027nav-hamburger-menu\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div[4]/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All_position.png"
+    }
+  ]
 }
