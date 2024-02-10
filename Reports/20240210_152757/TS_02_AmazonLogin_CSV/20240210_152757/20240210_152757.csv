@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_02_AmazonLogin_CSV,Chrome 121.0.0.0,,,10-02-2024 15:28:03,10-02-2024 15:28:26,23.619s,PASSED
+,,,,,,,
+Test Cases/TC_01_Amazon_Login,Chrome 121.0.0.0,,,10-02-2024 15:28:03,10-02-2024 15:28:26,23.372s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,10-02-2024 15:28:03,10-02-2024 15:28:05,1.595s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,10-02-2024 15:28:05,10-02-2024 15:28:06,1.240s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All""))",Chrome 121.0.0.0,,,10-02-2024 15:28:06,10-02-2024 15:28:15,8.898s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in""))",Chrome 121.0.0.0,,,10-02-2024 15:28:15,10-02-2024 15:28:17,2.387s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email""), ""hackerrr1236@gmail.com"")",Chrome 121.0.0.0,,,10-02-2024 15:28:17,10-02-2024 15:28:19,1.374s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,10-02-2024 15:28:19,10-02-2024 15:28:20,1.132s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password""), ""P2D2vg6I5uuiB0kbXouwaA=="")",Chrome 121.0.0.0,,,10-02-2024 15:28:20,10-02-2024 15:28:21,0.973s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,10-02-2024 15:28:21,10-02-2024 15:28:21,0.384s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All""))",Chrome 121.0.0.0,,,10-02-2024 15:28:21,10-02-2024 15:28:24,3.221s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign Out""), ""Sign Out"")",Chrome 121.0.0.0,,,10-02-2024 15:28:24,10-02-2024 15:28:26,1.603s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,10-02-2024 15:28:26,10-02-2024 15:28:26,0.289s,PASSED
