@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_a-section a-spacing-medium a-text-center</name>
+   <tag></tag>
+   <elementGuidId>8c1a7e12-0986-4013-aa2d-7c87c9829670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-section.a-spacing-medium.a-text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3980de08-7914-4ec8-bc6d-31e9521d3369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-section a-spacing-medium a-text-center</value>
+      <webElementGuid>6565108a-94bb-4128-afc6-5161061542cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-section a-padding-medium auth-workflow&quot;]/div[@class=&quot;a-section a-spacing-none auth-navbar&quot;]/div[@class=&quot;a-section a-spacing-medium a-text-center&quot;]</value>
+      <webElementGuid>9f4d43e6-f823-42a9-836a-9e31dcaba449</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div/div</value>
+      <webElementGuid>e8657cf6-8259-4a88-b424-79978c2c9269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>a79424fd-22c2-48fc-a156-3d4c87159f73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
