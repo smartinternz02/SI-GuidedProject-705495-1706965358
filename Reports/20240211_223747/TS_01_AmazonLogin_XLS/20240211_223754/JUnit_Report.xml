@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_01_AmazonLogin_XLS" time="34.281" tests="1" failures="0" errors="0">
+   <testsuite name="TS_01_AmazonLogin_XLS" tests="1" failures="0" errors="0" time="34.281" skipped="0" timestamp="11-02-2024T22:38:04" hostname="Mansi - LAPTOP-KUSGAJ61" id="Test Suites/TS_01_AmazonLogin_XLS">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Mansi\\git\\SI-GuidedProject-705495-1706965358-New\\Reports\\20240211_223747\\TS_01_AmazonLogin_XLS\\20240211_223754"/>
+         <property name="logFiles" value="C:\\Users\\Mansi\\git\\SI-GuidedProject-705495-1706965358-New\\Reports\\20240211_223747\\TS_01_AmazonLogin_XLS\\20240211_223754\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Mansi - LAPTOP-KUSGAJ61"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.104"/>
+         <property name="sessionId" value="245da0635e60b57a4931149a573b8dd4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_01_Amazon_Login" time="34.037" classname="Test Cases/TC_01_Amazon_Login" status="PASSED">
+         <system-out><![CDATA[11-02-2024T22:38:05 - [TEST_CASE][PASSED] - Test Cases/TC_01_Amazon_Login: Test Cases/TC_01_Amazon_Login
+
+11-02-2024T22:38:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-02-2024T22:38:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+11-02-2024T22:38:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-02-2024T22:38:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-02-2024T22:38:09 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+11-02-2024T22:38:10 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+11-02-2024T22:38:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All")): Object: 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+11-02-2024T22:38:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+11-02-2024T22:38:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in")): Object: 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in' is clicked on
+
+11-02-2024T22:38:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in' is clicked on
+
+11-02-2024T22:38:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email"), email): Text 'hackerrr1236@gmail.com' is set on object 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email'
+
+11-02-2024T22:38:27 - [MESSAGE][PASSED] - Text 'hackerrr1236@gmail.com' is set on object 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email'
+
+11-02-2024T22:38:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+11-02-2024T22:38:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+11-02-2024T22:38:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password"), password): Text ****** has been set on object 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password'
+
+11-02-2024T22:38:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password'
+
+11-02-2024T22:38:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+11-02-2024T22:38:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+11-02-2024T22:38:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All")): Object: 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All' is clicked on
+
+11-02-2024T22:38:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All' is clicked on
+
+11-02-2024T22:38:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign Out"), "Sign Out"): Actual text and expected text of test object 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign Out' are matched.
+
+11-02-2024T22:38:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign Out' are matched.
+
+11-02-2024T22:38:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+11-02-2024T22:38:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[11-02-2024T22:38:04 - [TEST_SUITE][PASSED] - TS_01_AmazonLogin_XLS: Test Cases/TC_01_Amazon_Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

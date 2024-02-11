@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_01_AmazonLogin_XLS,Chrome 121.0.0.0,,,11-02-2024 22:38:04,11-02-2024 22:38:39,34.281s,PASSED
+,,,,,,,
+Test Cases/TC_01_Amazon_Login,Chrome 121.0.0.0,,,11-02-2024 22:38:05,11-02-2024 22:38:39,34.037s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,11-02-2024 22:38:05,11-02-2024 22:38:09,3.906s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,11-02-2024 22:38:09,11-02-2024 22:38:10,1.559s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All""))",Chrome 121.0.0.0,,,11-02-2024 22:38:10,11-02-2024 22:38:20,9.197s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in""))",Chrome 121.0.0.0,,,11-02-2024 22:38:20,11-02-2024 22:38:25,5.679s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email""), email)",Chrome 121.0.0.0,,,11-02-2024 22:38:25,11-02-2024 22:38:27,1.872s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,11-02-2024 22:38:27,11-02-2024 22:38:29,2.084s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password""), password)",Chrome 121.0.0.0,,,11-02-2024 22:38:29,11-02-2024 22:38:30,0.986s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,11-02-2024 22:38:30,11-02-2024 22:38:31,0.635s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All""))",Chrome 121.0.0.0,,,11-02-2024 22:38:31,11-02-2024 22:38:37,6.524s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign Out""), ""Sign Out"")",Chrome 121.0.0.0,,,11-02-2024 22:38:37,11-02-2024 22:38:38,1.036s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,11-02-2024 22:38:38,11-02-2024 22:38:39,0.324s,PASSED

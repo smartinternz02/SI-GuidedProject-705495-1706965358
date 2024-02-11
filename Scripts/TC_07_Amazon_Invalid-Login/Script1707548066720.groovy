@@ -25,11 +25,11 @@ WebUI.click(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazo
 
 WebUI.click(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon.com. Spend less. Smile more/a_Sign in'))
 
-WebUI.setText(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon Sign-In/input_email'), 'hackerrr1236@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon Sign-In/input_email'), email)
 
 WebUI.click(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon Sign-In/inputcontinue'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon Sign-In/input_password'), 'GaDT0V3pFgQaEGnsvKBdqw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon Sign-In/input_password'), password)
 
 WebUI.click(findTestObject('Object Repository/Amazon_OR_Invalid-Login/Page_Amazon Sign-In/inputsignInSubmit'))
 

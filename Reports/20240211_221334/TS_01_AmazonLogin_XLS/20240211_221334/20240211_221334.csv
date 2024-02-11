@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_01_AmazonLogin_XLS,Chrome 121.0.0.0,,,11-02-2024 22:13:41,11-02-2024 22:14:01,20.270s,FAILED
+,,,,,,,
+Test Cases/TC_01_Amazon_Login,Chrome 121.0.0.0,,,11-02-2024 22:13:41,11-02-2024 22:14:01,19.994s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,11-02-2024 22:13:42,11-02-2024 22:13:43,1.848s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,11-02-2024 22:13:43,11-02-2024 22:13:46,2.368s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/span_All""))",Chrome 121.0.0.0,,,11-02-2024 22:13:46,11-02-2024 22:13:47,0.781s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_Sign in""))",Chrome 121.0.0.0,,,11-02-2024 22:13:47,11-02-2024 22:13:49,2.413s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_email""), ""hackerrr1236@gmail.com"")",Chrome 121.0.0.0,,,11-02-2024 22:13:49,11-02-2024 22:13:50,1.383s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,11-02-2024 22:13:50,11-02-2024 22:13:51,0.842s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/input_password""), ""P2D2vg6I5uuiB0kbXouwaA=="")",Chrome 121.0.0.0,,,11-02-2024 22:13:51,11-02-2024 22:13:53,1.751s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,11-02-2024 22:13:53,11-02-2024 22:13:54,0.515s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR_Login/Page_Amazon.com. Spend less. Smile more/a_All""))",Chrome 121.0.0.0,,,11-02-2024 22:13:54,11-02-2024 22:14:01,7.811s,FAILED

@@ -9,3 +9,14 @@
 * Git 
 * Jenkins
 * Katalon TestCloud 
+
+## Test cases automated - 
+* Valid Amazon Login 
+* Invalid Amazon Login
+* Amazon logo on home page
+* Footer link 
+* Hyperlinks present
+* List of countries available
+
+## Data-driven testing
+#### To check whether what forms of data is parsed and executed by the application, data-driven testing can be performed. In this project I have used MS Excel data and CSV data to perform automated testing on Amazon login test case.
