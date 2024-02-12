@@ -28,4 +28,4 @@
 #### Jenkins is used to automate build schedules with the help of Katalon Runtime Engine(KRE). The command script can be generated for any test suite in the Katalon Studio which then can be used to execute from Jenkins using the option of running Windows batch commands to start the build process. After the build process is executed via Jenkins, the test report is sent to Katalon TestOps. Here is the output of the console generated during the build process from [Jenkins](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Jenkins_Katalon_Integration)
 
 ## Test Reports
-#### The test report is generated from running different test suite in this project. Here the test reports generated in this [project](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Reports)
+#### The test report is generated from running different test suite in this project. Here are the test reports generated in this [project](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Reports)
